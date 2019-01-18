@@ -41,6 +41,8 @@ header{
  }
 
 
+
+
 @media all and (max-width: 550px) {
         #margin{
             background-color: #201F20;
@@ -65,7 +67,7 @@ header{
 
      #line{
        margin: 0px;
-        width: 500px;
+        width: 2000px;
         height: 3px;
         background-color: red;
     }
@@ -140,6 +142,16 @@ header{
        font-family: 'Montserrat', sans-serif;
        color: #787678;
    }
+
+    .d{
+
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+        background-color: red;
+         padding: 8px;
+    }
+
+
 
 }
 

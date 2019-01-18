@@ -37,28 +37,28 @@ section{
 }
 
 @media all and (max-width: 550px) {
-    #margin{
+    #margin {
         background-color: #201F20;
     }
 
-    li{
+    li {
         padding: 10px;
         border-top: 1px solid white;
 
     }
 
-    #uleen{
+    #uleen {
 
         padding: 0px;
         margin: 0px;
     }
 
-    .b{
+    .b {
         text-decoration: none;
         color: white;
     }
 
-    #line{
+    #line {
         margin: 0px;
         width: 500px;
         height: 3px;
@@ -66,53 +66,54 @@ section{
     }
 
     section {
+        border: 1px dotted gray;
         margin-left: 10px;
         margin-right: 10px;
         background-color: #FFFFFF;
+        margin-bottom: 5px;
+        margin-top: 5px;
     }
 
-    .een{
+    .een {
         padding-top: 5px;
         width: 83%;
-        background-color:#F7F5F7 ;
+        background-color: #F7F5F7;
         margin-left: 32px;
 
     }
 
-    .twee{
+    .twee {
         padding-top: 5px;
         width: 83%;
-        background-color:#F7F5F7 ;
+        background-color: #F7F5F7;
         margin-left: 32px;
 
     }
 
-    #logo{
+    #logo {
         text-align: center;
         width: 75%;
     }
 
-
-
-    .a{
+    .a {
         font-family: 'Montserrat', sans-serif;
         margin-left: -35px;
         color: #787678;
 
     }
 
-    .ul{
+    .ul {
         color: #787678;
     }
 
-    footer{
+    footer {
         margin: 0px;
         width: 500px;
         height: 20px;
         background-color: red;
     }
 
-    img{
+    img {
         text-align: center;
         width: 100%;
     }

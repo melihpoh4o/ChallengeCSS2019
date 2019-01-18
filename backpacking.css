@@ -1,0 +1,119 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-decoration: none;
+}
+
+header{
+    color: white;
+    width: 50px;
+    height: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+#logo{
+    height: 20px;
+    background-color: red;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+h2{
+    color: #A73A4A;
+    font-size: 30px;
+
+}
+
+a:hover{
+    color: #A73A4A;
+}
+
+section{
+    background-color: white;
+}
+
+@media all and (max-width: 550px) {
+    #margin{
+        background-color: #201F20;
+    }
+
+    li{
+        padding: 10px;
+        border-top: 1px solid white;
+
+    }
+
+    #uleen{
+
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .b{
+        text-decoration: none;
+        color: white;
+    }
+
+    #line{
+        margin: 0px;
+        width: 500px;
+        height: 3px;
+        background-color: red;
+    }
+
+    section {
+        margin-left: 10px;
+        margin-right: 10px;
+        background-color: #FFFFFF;
+    }
+
+    .een{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    .twee{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    #logo{
+        text-align: center;
+        width: 75%;
+    }
+
+
+
+    .a{
+        font-family: 'Montserrat', sans-serif;
+        margin-left: -35px;
+        color: #787678;
+
+    }
+
+    .ul{
+        color: #787678;
+    }
+
+    footer{
+        margin: 0px;
+        width: 500px;
+        height: 20px;
+        background-color: red;
+    }
+
+    img{
+        text-align: center;
+        width: 100%;
+    }
+}
