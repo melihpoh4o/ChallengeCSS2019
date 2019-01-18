@@ -36,6 +36,169 @@ section{
     background-color: white;
 }
 
+@media all and (  max-width: 2000px ) {
+
+    .footereen{
+        width: 100%;
+    }
+    li {
+        display: inline-block;
+        border: none;
+    }
+
+    .b {
+        text-decoration: none;
+        color: black;
+    }
+
+    .uleen{
+        background-color: white;
+    }
+
+
+
+    #line{
+        margin: 35px;
+        width: 100%;
+        height: 3px;
+        background-color: red;
+    }
+
+    section {
+        margin-left: 10px;
+        margin-right: 10px;
+        background-color: #FFFFFF;
+    }
+
+    .een{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    .twee{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    #logo{
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+    .a{
+        font-family: 'Montserrat', sans-serif;
+        margin-left: -35px;
+        color: #787678;
+
+    }
+
+    .ul{
+        color: #787678;
+    }
+
+    footer{
+        margin: 0px;
+        width: 100%;
+        height: 20px;
+        background-color: red;
+    }
+
+    img{
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media all and (  max-width: 920px ) {
+
+    .footereen{
+        width: 100%;
+    }
+    li {
+        display: inline-block;
+        border: none;
+    }
+
+    .b {
+        text-decoration: none;
+        color: black;
+    }
+
+    .uleen{
+        background-color: white;
+    }
+
+
+
+    #line{
+        margin: 35px;
+        width: 100%;
+        height: 3px;
+        background-color: red;
+    }
+
+    section {
+        margin-left: 10px;
+        margin-right: 10px;
+        background-color: #FFFFFF;
+    }
+
+    .een{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    .twee{
+        padding-top: 5px;
+        width: 83%;
+        background-color:#F7F5F7 ;
+        margin-left: 32px;
+
+    }
+
+    #logo{
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+    .a{
+        font-family: 'Montserrat', sans-serif;
+        margin-left: -35px;
+        color: #787678;
+
+    }
+
+    .ul{
+        color: #787678;
+    }
+
+    footer{
+        margin: 0px;
+        width: 100%;
+        height: 20px;
+        background-color: red;
+    }
+
+    img{
+        text-align: center;
+        width: 100%;
+    }
+}
+
+
 @media all and (max-width: 550px) {
     #margin{
         background-color: #201F20;
@@ -43,12 +206,10 @@ section{
 
     li{
         padding: 10px;
-        border-top: 1px solid white;
-
+        padding-right: 100px;
     }
 
     #uleen{
-
         padding: 0px;
         margin: 0px;
     }
